@@ -1,0 +1,14 @@
+C:\Users\saite\Documents\Projects\Cricsheet\CricAPI\bin\Debug\netcoreapp2.2\CricAPI.deps.json
+C:\Users\saite\Documents\Projects\Cricsheet\CricAPI\bin\Debug\netcoreapp2.2\CricAPI.runtimeconfig.json
+C:\Users\saite\Documents\Projects\Cricsheet\CricAPI\bin\Debug\netcoreapp2.2\CricAPI.runtimeconfig.dev.json
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\bin\Debug\netcoreapp2.2\CricAPI.dll
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\bin\Debug\netcoreapp2.2\CricAPI.pdb
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\obj\Debug\netcoreapp2.2\CricAPI.csprojAssemblyReference.cache
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\obj\Debug\netcoreapp2.2\CricAPI.csproj.CoreCompileInputs.cache
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\obj\Debug\netcoreapp2.2\CricAPI.RazorAssemblyInfo.cache
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\obj\Debug\netcoreapp2.2\CricAPI.RazorAssemblyInfo.cs
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\obj\Debug\netcoreapp2.2\CricAPI.AssemblyInfoInputs.cache
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\obj\Debug\netcoreapp2.2\CricAPI.AssemblyInfo.cs
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\obj\Debug\netcoreapp2.2\CricAPI.RazorTargetAssemblyInfo.cache
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\obj\Debug\netcoreapp2.2\CricAPI.dll
+c:\Users\saite\Documents\Projects\Cricsheet\CricAPI\obj\Debug\netcoreapp2.2\CricAPI.pdb
