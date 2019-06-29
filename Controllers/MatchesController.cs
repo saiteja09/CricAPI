@@ -103,7 +103,7 @@ namespace CricAPI.Controllers{
             {
                 top = 10;
             }
-            
+               
             return await _context.Matches.AsNoTracking().FromSql($"select cricsheetid, matchdata from matches where ((lower(matchdata->'info'->'teams'->>0) = {team1.ToLower()} or lower(matchdata->'info'->'teams'->>1) = {team1.ToLower()}) and (lower(matchdata->'info'->'teams'->>0) = {team2.ToLower()} or lower(matchdata->'info'->'teams'->>1) = {team2.ToLower()})  ) order by matchdata->'info'->'dates'->>0 desc").Skip(skip).Take(top).ToListAsync();
         }
     }

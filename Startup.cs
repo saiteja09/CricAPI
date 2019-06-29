@@ -65,7 +65,7 @@ namespace CricAPI
             {
                 ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
             });
-            app.UseResponseCompression();
+            //app.UseResponseCompression();
             app.UseHttpsRedirection();
             app.UseMvc();
         }
